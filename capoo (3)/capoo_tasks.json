@@ -1,0 +1,12 @@
+{
+  "tasks": [],
+  "coins": 0,
+  "items": [],
+  "streak": {
+    "current_streak": 1,
+    "total_days": 1,
+    "last_login_date": "2026-01-11",
+    "milestones_reached": [],
+    "pause_count": 9
+  }
+}

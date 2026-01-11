@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "1768134417.5501761",
+      "title": "văn",
+      "subject": "Văn",
+      "completed": false
+    },
+    {
+      "id": "1768134411.128406",
+      "title": "giải tích",
+      "subject": "Toán",
+      "completed": false
+    }
+  ],
+  "coins": 0,
+  "items": [],
+  "flashcard_decks": [],
+  "current_mood": "IDLE"
+}
